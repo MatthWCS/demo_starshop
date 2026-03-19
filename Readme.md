@@ -40,3 +40,15 @@ bash command:
 composer require symfony/asset-mapper
 composer require symfony/asset
 ```
+
+### Package Tailwind-Bundle
+
+bash command:
+```
+composer require symfonycasts/tailwind-bundle
+php bin/console tailwind:init
+```
+compile automatiquement:
+```
+php bin/console tailwind:build --watch
+```
