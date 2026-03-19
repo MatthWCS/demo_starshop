@@ -32,3 +32,11 @@ bash command:
 ```
 composer require serializer
 ```
+
+### Package Asset Mapper
+
+bash command:
+```
+composer require symfony/asset-mapper
+composer require symfony/asset
+```
