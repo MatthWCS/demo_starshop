@@ -11,3 +11,11 @@ bash command:
 ```
 composer require cs-fixer-shim
 ```
+
+### Package permettant la création l'affichage de pages
+
+bash command:
+```
+composer require twig
+```
+
