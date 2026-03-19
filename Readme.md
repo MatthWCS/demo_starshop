@@ -25,3 +25,10 @@ bash command:
 ```
 composer require debug
 ```
+
+### Package serializer json
+
+bash command:
+```
+composer require serializer
+```
