@@ -19,3 +19,9 @@ bash command:
 composer require twig
 ```
 
+### Package pour le debugging
+
+bash command:
+```
+composer require debug
+```
