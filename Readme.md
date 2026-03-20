@@ -52,3 +52,18 @@ compile automatiquement:
 ```
 php bin/console tailwind:build --watch
 ```
+
+### Package Stimulus
+
+bash command:
+```
+composer require symfony/stimulus-bundle
+```
+
+### Package UX-Turbo
+
+bash command:
+```
+composer require symfony/ux-turbo
+```
+
